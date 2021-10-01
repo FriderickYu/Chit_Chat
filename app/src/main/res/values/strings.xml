@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chit Chat</string>
+    <string name="registeration">Registeration</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="confirm">Confirm</string>
+    <string name="textview">TextView</string>
+    <string name="login_page">Login Page</string>
+    <string name="login">Login</string>
+    <string name="not_register_click_this">Not Register?Click this!</string>
+    <string name="you_have_already_login_the_chit_chat_app_successfully">You have already login the chit chat app successfully!</string>
+    <string name="logout">Logout</string>
+
+</resources>
