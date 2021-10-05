@@ -112,7 +112,7 @@ public class LoginActivity extends AppCompatActivity {
 
                 passwordResetDialog.setNegativeButton("No", new DialogInterface.OnClickListener() {
                     @Override
-                    public void onClick(DialogInterface dialogInterface, int i) {
+                    public void onClick(DialogInterface dialog, int which) {
                         //close the dialog
                     }
                 });
