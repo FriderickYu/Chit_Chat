@@ -11,5 +11,6 @@
     <string name="not_register_click_this">Not Register?Click this!</string>
     <string name="you_have_already_login_the_chit_chat_app_successfully">You have already login the chit chat app successfully!</string>
     <string name="logout">Logout</string>
+    <string name="forget_password">Forget Password?</string>
 
 </resources>
